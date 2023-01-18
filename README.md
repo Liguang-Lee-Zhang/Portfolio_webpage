@@ -18,7 +18,7 @@ To access the webpage, go to https://liguang-lee-zhang.github.io/Portfolio_webpa
 
 Image showing deployed webpage:
 
-![alt Deployed webpage](assets/images/screenshot.png)
+![alt Deployed webpage](assets/images/deployed.png)
 
 
 
